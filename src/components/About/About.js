@@ -115,7 +115,7 @@ export default function About({ resetData, exportData, importData }) {
 							<Badge>
 								For the{" "}
 								<span role="img" aria-label="orange-hearth" className="emojiFix">
-									🧡
+									
 								</span>{" "}
 								to code{" "}
 								<span role="img" aria-label="victory" className="emojiFix">
